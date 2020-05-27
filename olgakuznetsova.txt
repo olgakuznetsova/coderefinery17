@@ -1,0 +1,1 @@
+a nice presentation about zsh https://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692
